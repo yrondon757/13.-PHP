@@ -189,6 +189,7 @@ echo $edad >=19 ? "Es mayor de edad" : "Es menor de edad";
 4. Calcular e imprimir la circunferencia de un circulo.
 5. Determinar si un year es bisiesto o no.
 6. Determinar la estacion del year segun un mes (Por numero de mes)
+*/
 
 ?>
 
